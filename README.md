@@ -20,3 +20,5 @@ It's not intended to be cross platform, so not sure if it works in BSD, SOLARIS,
 # USAGE
 It has to be ran as sudo, once done, it'll go to the background and won't be visible to the user, it'll just
 log keystrokes silently :)
+
+To kill it just press 'enter' once and type 'stop' anywhere, this will break the listener and kill the daemon
